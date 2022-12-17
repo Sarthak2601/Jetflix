@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/4olQKn0.png" width="57%"/>
 </p>
 <h1 align="center">Jetflix</h1>
-<h4 align="center">Movie listing app that demonstrates various UI's written with Jetpack Compose using TheMovieDb API</h1>
+<h4 align="center">Movie listing app that demonstrates various UI's written with Jetpack Compose using TheMovieDb API</h4>
 
-</br>
+<br></br>
 
 ## Screenshots
 
@@ -14,13 +14,6 @@
 <img src="screenshots/3.gif" width="24%" height="40%"/>
 <img src="screenshots/4.gif" width="24%" height="40%"/>
 </p>
-
-
-## Download
-
-Go to [Play Store](https://play.google.com/store/apps/details?id=com.yasinkacmaz.jetflix) to download the latest APP.
-
-Go to [Releases](https://github.com/yasinkacmaz/jetflix/releases) page to download the latest APK.
 
 ## Technologies
 
